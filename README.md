@@ -433,6 +433,7 @@ rely on the test failure messages to guide your code.
    remainder of dividing variable `num3` by `num4`; the remainder should be `4`.
 4. Create a variable called `max` that finds the highest number in a set; the
    value returned should be `20`.
+   
 
 After you have all the tests passing, remember to commit and push your changes
 up to GitHub, then submit your work to Canvas using CodeGrade. If you need a
